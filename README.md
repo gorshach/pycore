@@ -1,2 +1,2 @@
 # pycore
-依赖于
+依赖于pymysql
